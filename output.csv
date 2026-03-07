@@ -1,0 +1,6 @@
+Patient_ID,Age,Gender,BMI,Smoking_Status,Family_History,Allergies,Air_Pollution_Level,Physical_Activity_Level,Occupation_Type,Comorbidities,Residence,History_of_Allergies,Wheezing,Shortness_of_Breath,Chest_Tightness,Chronic_Cough,Night_Symptoms,Symptoms_Triggered_by_Exercise,Symptoms_Triggered_by_Dust,Respiratory_Rate,Asthma
+ASTH10000,52,Female,22.0,Non-Smoker,No,,Moderate,Moderate,Indoor,Both,Urban,0,1,1,1,1,1,1,0,36,1
+ASTH10001,15,Male,29.5,Non-Smoker,No,,Moderate,Moderate,Indoor,,Urban,0,0,0,0,0,0,0,0,11,0
+ASTH10002,72,Male,36.9,Current Smoker,Yes,,Low,Low,Indoor,,Urban,0,1,1,1,1,1,1,0,36,1
+ASTH10003,61,Male,38.2,Non-Smoker,Yes,Pollen,Moderate,High,Indoor,,Rural,1,1,1,0,1,1,1,1,21,0
+ASTH10004,21,Female,25.1,Non-Smoker,Yes,Food,High,Low,Indoor,,Urban,1,1,1,1,1,1,1,1,31,1
